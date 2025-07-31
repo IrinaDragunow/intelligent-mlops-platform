@@ -1,5 +1,11 @@
 # 🚀 Intelligent MLOps Platform
 
+
+**🌐 [LIVE DEMO - Try it now!](https://intelligent-mlops-platform.streamlit.app)**
+
+> No installation required - test the full MLOps platform in your browser!
+
+
 An Enterprise-grade MLOps Platform with automated CI/CD Pipeline, Health Monitoring and Production-ready Features.
 
 ## 🎯 Features
